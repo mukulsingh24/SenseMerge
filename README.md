@@ -1,12 +1,4 @@
 
-So Markdown thinks **everything** is part of a code block → this produced a conflict during merge.
-
----
-
-# ✅ Correct Version (How it should look)
-
-Remove the extra ``` at the top.  
-It should look like this:
 
 ```markdown
 ## 🚀 Performance Tips
